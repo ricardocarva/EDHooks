@@ -1,0 +1,7 @@
+C:\Users\Ricardo\source\repos\EDHooks\src\EDHooks\bin\Release\net8.0\publish\EDHooks.deps.json
+C:\Users\Ricardo\source\repos\EDHooks\src\EDHooks\bin\Release\net8.0\publish\EDHooks.runtimeconfig.json
+C:\Users\Ricardo\source\repos\EDHooks\src\EDHooks\bin\Release\net8.0\publish\EDHooks.pdb
+C:\Users\Ricardo\source\repos\EDHooks\src\EDHooks\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Ricardo\source\repos\EDHooks\src\EDHooks\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Ricardo\source\repos\EDHooks\src\EDHooks\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\Ricardo\source\repos\EDHooks\src\EDHooks\bin\Release\net8.0\publish\EDHooks.dll
